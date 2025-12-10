@@ -276,7 +276,7 @@ function App() {
 														</div>
 														<div className="team-content">
 															<h2 className="title">{item.name}</h2>
-															<span>{item.position}</span>
+															<span>{item.postion}</span>
 														</div>
 													</div>
 												</div>
@@ -369,7 +369,7 @@ function App() {
 						{/* end faq-area */}
 
 						{/* brand-area */}
-						<div className="brand-area">
+						{/* <div className="brand-area">
 							<div className="container-fluid p-0">
 								<div className="row g-0">
 									<div className="col-lg-12">
@@ -396,7 +396,7 @@ function App() {
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> */}
 						{/* brand-area-end */}
 
 						{/* document-area */}
@@ -453,11 +453,11 @@ function App() {
 													</li>
 
 													<li>
-														<a href="#">
+														<a href="https://github.com/ADA-BAMBOO/PsycheScore">
 															<span className="icon">
 																<i className="fas fa-file-pdf"></i>
 															</span>
-															Lightpaper
+															Github
 														</a>
 													</li>
 												</ul>

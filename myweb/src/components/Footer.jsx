@@ -95,7 +95,7 @@ const Footer = () => {
 										
 										</p>
 										<form action="#">
-											<input type="text" placeholder="Info@gmail.com" />
+											<input type="text" placeholder="info@bbotech.vn" />
 											<button type="submit">
 												<i className="fas fa-paper-plane"></i>
 											</button>

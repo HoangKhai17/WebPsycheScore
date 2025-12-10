@@ -1,8 +1,8 @@
 /*
-  Theme Name: Xeco - ICO & Crypto Landing Page Template
-  Support: themegenix@gmail.com
-  Description: Xeco - ICO & Crypto Landing Page Template.
-  Version: 1.0
+  Theme Name: BBOTech - Landing Page Template
+  Support: support@bbotech.vn
+  Description: BBOTech - Landing Page Template.
+  Version: 1.0.1
 */
 
 /* CSS Index
@@ -1725,6 +1725,7 @@ label {
     mix-blend-mode: luminosity !important;
     display: inline-block !important;
 }
+
 .team-thumb .team-social {
     position: absolute;
     left: 50%;
@@ -1753,6 +1754,9 @@ label {
     font-size: 14px;
     font-weight: 500;
     color: #CBD0D4;
+}
+.team-active .slick-track {
+    transform: translate3d(0px, 0px, 0px) !important;
 }
 
 /*=============================
