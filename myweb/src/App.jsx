@@ -76,11 +76,11 @@ function App() {
 												}}
 											/>
 											<div>
-												<p
+												<div
 													dangerouslySetInnerHTML={{
 														__html: pageData.section_1.subtitle,
 													}}
-												></p>
+												></div>
 											</div>
 										</div>
 									</div>
