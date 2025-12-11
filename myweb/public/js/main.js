@@ -259,7 +259,7 @@ $('.team-active').slick({
     centerPadding: '130px',
 	autoplay: false,
 	arrows: false,
-	slidesToShow: 6,
+	slidesToShow: 5,
 	slidesToScroll: 1,
 	responsive: [
 		{
