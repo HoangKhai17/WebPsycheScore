@@ -51,7 +51,7 @@ const Footer = () => {
                                             {Array.isArray(menu_1) && menu_1.map((item, index) => (
                                                 <li key={index}>
                                                     {/* Giả sử các trường trong Repeater là 'name' và 'link' */}
-                                                    <a href={item.link.url}>{item.name}</a>
+                                                    <a href={item.link.url} target="_blank">{item.name}</a>
                                                 </li>
                                             ))}
                                         </ul>
@@ -71,7 +71,7 @@ const Footer = () => {
                                             {Array.isArray(menu_2) && menu_2.map((item, index) => (
                                                 <li key={index}>
                                                     {/* Giả sử các trường trong Repeater là 'name' và 'link' */}
-                                                    <a href={item.link.url}>{item.name}</a>
+                                                    <a href={item.link.url} target="_blank">{item.name}</a>
                                                 </li>
                                             ))}
                                         </ul>

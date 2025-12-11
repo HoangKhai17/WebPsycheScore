@@ -52,7 +52,7 @@ function App() {
 
 	return (
 		<>
-			<Preloader />
+			{/* <Preloader /> */}
 			<ScrollToTop />
 			<Header />
 

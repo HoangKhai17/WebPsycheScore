@@ -101,19 +101,19 @@ const Header = () => {
 									<div className="social-links">
 										<ul className="clearfix list-wrap">
 											<li>
-												<a href="#">
-													<i className="fab fa-facebook-f"></i>
+												<a href="https://t.me/Cardano_ECO_VN" target="_blank">
+													<i className="fab fa-telegram"></i>
 												</a>
 											</li>
 											<li>
-												<a href="#">
+												<a href="https://x.com/BambooLabsXYZ" target="_blank">
 													<i className="fab fa-twitter"></i>
 												</a>
 											</li>
 											
 										
 											<li>
-												<a href="#">
+												<a href="https://www.youtube.com/@ADA-Bamboo" target="_blank">
 													<i className="fab fa-youtube"></i>
 												</a>
 											</li>
